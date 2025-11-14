@@ -1,2 +1,2 @@
 # gh-stacking-graphite
-PR Stacking Using Graphite
+PR Stacking Using Graphite. 
