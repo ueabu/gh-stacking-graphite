@@ -20,5 +20,7 @@ class Team extends Model
         'slug',
         'descriptions',
         'locations',
+        'organization',
+        'no_of_people'
     ];
 }
